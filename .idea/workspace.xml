@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f23b26-575d-4023-8879-d55e3e7a91d1" name="Default" comment="Commit from VCS">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestProject.iws" />
@@ -190,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1466444492919</updated>
       <workItem from="1466444494204" duration="346000" />
-      <workItem from="1466504743125" duration="3157000" />
+      <workItem from="1466504743125" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="Commit from VCS">
       <created>1466512256999</created>
@@ -206,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466512298631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit from VCS">
+      <created>1466514187835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466514187835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3503000" />
+    <option name="totallyTimeSpent" value="3539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
