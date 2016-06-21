@@ -14,5 +14,3 @@ for(; process.argv[i]; i++) {
 }
 
 console.log("Сумма = " + summa);
-
-console.log("Hello!");
